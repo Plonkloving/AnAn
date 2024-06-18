@@ -24,16 +24,16 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
+author: 李妍 # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author:小李妍，最美最可爱。
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
-phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
+email: bai52aa@gmail。com # Add your Email address
+phone:19554103992 # Add your Phone number
+website: https://github.com/Plonkloving # Add your website
 linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
+github: https://github.com/Plonkloving # Add your Github handle
 twitter: '@MvmThe' # Add your Twitter handle
 bandcamp: armandomaynez # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
