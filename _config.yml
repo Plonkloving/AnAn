@@ -24,13 +24,13 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: 李妍 # add your name
+author: LiYan # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author:小李妍,最美最可爱
+about-author: Li Yan is the most beautiful and lovely.
 
 # Contact links
 email: bai52aa@gmail。com # Add your Email address
-phone:19554103992 # Add your Phone number
+phone:8619554103992 # Add your Phone number
 website: https://github.com/Plonkloving # Add your website
 linkedin: amaynez # Add your Linkedin handle
 github: https://github.com/Plonkloving # Add your Github handle
